@@ -1,2 +1,2 @@
-# githubactions
+# Github Actions
 GitHub Actions Demo
